@@ -1,0 +1,16 @@
+C:\Users\Villegas\source\repos\Practica intermedia\Creacion de excepciones y nulleables\bin\Debug\net5.0\Creacion de excepciones y nulleables.exe
+C:\Users\Villegas\source\repos\Practica intermedia\Creacion de excepciones y nulleables\bin\Debug\net5.0\Creacion de excepciones y nulleables.deps.json
+C:\Users\Villegas\source\repos\Practica intermedia\Creacion de excepciones y nulleables\bin\Debug\net5.0\Creacion de excepciones y nulleables.runtimeconfig.json
+C:\Users\Villegas\source\repos\Practica intermedia\Creacion de excepciones y nulleables\bin\Debug\net5.0\Creacion de excepciones y nulleables.runtimeconfig.dev.json
+C:\Users\Villegas\source\repos\Practica intermedia\Creacion de excepciones y nulleables\bin\Debug\net5.0\Creacion de excepciones y nulleables.dll
+C:\Users\Villegas\source\repos\Practica intermedia\Creacion de excepciones y nulleables\bin\Debug\net5.0\Creacion de excepciones y nulleables.pdb
+C:\Users\Villegas\source\repos\Practica intermedia\Creacion de excepciones y nulleables\obj\Debug\net5.0\Creacion de excepciones y nulleables.csproj.AssemblyReference.cache
+C:\Users\Villegas\source\repos\Practica intermedia\Creacion de excepciones y nulleables\obj\Debug\net5.0\Creacion de excepciones y nulleables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Villegas\source\repos\Practica intermedia\Creacion de excepciones y nulleables\obj\Debug\net5.0\Creacion de excepciones y nulleables.AssemblyInfoInputs.cache
+C:\Users\Villegas\source\repos\Practica intermedia\Creacion de excepciones y nulleables\obj\Debug\net5.0\Creacion de excepciones y nulleables.AssemblyInfo.cs
+C:\Users\Villegas\source\repos\Practica intermedia\Creacion de excepciones y nulleables\obj\Debug\net5.0\Creacion de excepciones y nulleables.csproj.CoreCompileInputs.cache
+C:\Users\Villegas\source\repos\Practica intermedia\Creacion de excepciones y nulleables\obj\Debug\net5.0\Creacion de excepciones y nulleables.dll
+C:\Users\Villegas\source\repos\Practica intermedia\Creacion de excepciones y nulleables\obj\Debug\net5.0\refint\Creacion de excepciones y nulleables.dll
+C:\Users\Villegas\source\repos\Practica intermedia\Creacion de excepciones y nulleables\obj\Debug\net5.0\Creacion de excepciones y nulleables.pdb
+C:\Users\Villegas\source\repos\Practica intermedia\Creacion de excepciones y nulleables\obj\Debug\net5.0\Creacion de excepciones y nulleables.genruntimeconfig.cache
+C:\Users\Villegas\source\repos\Practica intermedia\Creacion de excepciones y nulleables\obj\Debug\net5.0\ref\Creacion de excepciones y nulleables.dll

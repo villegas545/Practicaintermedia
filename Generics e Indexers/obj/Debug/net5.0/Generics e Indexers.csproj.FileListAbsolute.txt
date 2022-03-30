@@ -1,0 +1,16 @@
+C:\Users\Villegas\source\repos\Practica intermedia\Generics e Indexers\bin\Debug\net5.0\Generics e Indexers.exe
+C:\Users\Villegas\source\repos\Practica intermedia\Generics e Indexers\bin\Debug\net5.0\Generics e Indexers.deps.json
+C:\Users\Villegas\source\repos\Practica intermedia\Generics e Indexers\bin\Debug\net5.0\Generics e Indexers.runtimeconfig.json
+C:\Users\Villegas\source\repos\Practica intermedia\Generics e Indexers\bin\Debug\net5.0\Generics e Indexers.runtimeconfig.dev.json
+C:\Users\Villegas\source\repos\Practica intermedia\Generics e Indexers\bin\Debug\net5.0\Generics e Indexers.dll
+C:\Users\Villegas\source\repos\Practica intermedia\Generics e Indexers\bin\Debug\net5.0\Generics e Indexers.pdb
+C:\Users\Villegas\source\repos\Practica intermedia\Generics e Indexers\obj\Debug\net5.0\Generics e Indexers.csproj.AssemblyReference.cache
+C:\Users\Villegas\source\repos\Practica intermedia\Generics e Indexers\obj\Debug\net5.0\Generics e Indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Villegas\source\repos\Practica intermedia\Generics e Indexers\obj\Debug\net5.0\Generics e Indexers.AssemblyInfoInputs.cache
+C:\Users\Villegas\source\repos\Practica intermedia\Generics e Indexers\obj\Debug\net5.0\Generics e Indexers.AssemblyInfo.cs
+C:\Users\Villegas\source\repos\Practica intermedia\Generics e Indexers\obj\Debug\net5.0\Generics e Indexers.csproj.CoreCompileInputs.cache
+C:\Users\Villegas\source\repos\Practica intermedia\Generics e Indexers\obj\Debug\net5.0\Generics e Indexers.dll
+C:\Users\Villegas\source\repos\Practica intermedia\Generics e Indexers\obj\Debug\net5.0\refint\Generics e Indexers.dll
+C:\Users\Villegas\source\repos\Practica intermedia\Generics e Indexers\obj\Debug\net5.0\Generics e Indexers.pdb
+C:\Users\Villegas\source\repos\Practica intermedia\Generics e Indexers\obj\Debug\net5.0\Generics e Indexers.genruntimeconfig.cache
+C:\Users\Villegas\source\repos\Practica intermedia\Generics e Indexers\obj\Debug\net5.0\ref\Generics e Indexers.dll

@@ -1,0 +1,16 @@
+C:\Users\Villegas\source\repos\Practica intermedia\Tipos anonimos y dinamicos\bin\Debug\net5.0\Tipos anonimos y dinamicos.exe
+C:\Users\Villegas\source\repos\Practica intermedia\Tipos anonimos y dinamicos\bin\Debug\net5.0\Tipos anonimos y dinamicos.deps.json
+C:\Users\Villegas\source\repos\Practica intermedia\Tipos anonimos y dinamicos\bin\Debug\net5.0\Tipos anonimos y dinamicos.runtimeconfig.json
+C:\Users\Villegas\source\repos\Practica intermedia\Tipos anonimos y dinamicos\bin\Debug\net5.0\Tipos anonimos y dinamicos.runtimeconfig.dev.json
+C:\Users\Villegas\source\repos\Practica intermedia\Tipos anonimos y dinamicos\bin\Debug\net5.0\Tipos anonimos y dinamicos.dll
+C:\Users\Villegas\source\repos\Practica intermedia\Tipos anonimos y dinamicos\bin\Debug\net5.0\Tipos anonimos y dinamicos.pdb
+C:\Users\Villegas\source\repos\Practica intermedia\Tipos anonimos y dinamicos\obj\Debug\net5.0\Tipos anonimos y dinamicos.csproj.AssemblyReference.cache
+C:\Users\Villegas\source\repos\Practica intermedia\Tipos anonimos y dinamicos\obj\Debug\net5.0\Tipos anonimos y dinamicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Villegas\source\repos\Practica intermedia\Tipos anonimos y dinamicos\obj\Debug\net5.0\Tipos anonimos y dinamicos.AssemblyInfoInputs.cache
+C:\Users\Villegas\source\repos\Practica intermedia\Tipos anonimos y dinamicos\obj\Debug\net5.0\Tipos anonimos y dinamicos.AssemblyInfo.cs
+C:\Users\Villegas\source\repos\Practica intermedia\Tipos anonimos y dinamicos\obj\Debug\net5.0\Tipos anonimos y dinamicos.csproj.CoreCompileInputs.cache
+C:\Users\Villegas\source\repos\Practica intermedia\Tipos anonimos y dinamicos\obj\Debug\net5.0\Tipos anonimos y dinamicos.dll
+C:\Users\Villegas\source\repos\Practica intermedia\Tipos anonimos y dinamicos\obj\Debug\net5.0\refint\Tipos anonimos y dinamicos.dll
+C:\Users\Villegas\source\repos\Practica intermedia\Tipos anonimos y dinamicos\obj\Debug\net5.0\Tipos anonimos y dinamicos.pdb
+C:\Users\Villegas\source\repos\Practica intermedia\Tipos anonimos y dinamicos\obj\Debug\net5.0\Tipos anonimos y dinamicos.genruntimeconfig.cache
+C:\Users\Villegas\source\repos\Practica intermedia\Tipos anonimos y dinamicos\obj\Debug\net5.0\ref\Tipos anonimos y dinamicos.dll

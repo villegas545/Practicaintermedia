@@ -1,0 +1,16 @@
+C:\Users\Villegas\source\repos\Practica intermedia\RegexProgram\bin\Debug\net5.0\RegexProgram.exe
+C:\Users\Villegas\source\repos\Practica intermedia\RegexProgram\bin\Debug\net5.0\RegexProgram.deps.json
+C:\Users\Villegas\source\repos\Practica intermedia\RegexProgram\bin\Debug\net5.0\RegexProgram.runtimeconfig.json
+C:\Users\Villegas\source\repos\Practica intermedia\RegexProgram\bin\Debug\net5.0\RegexProgram.runtimeconfig.dev.json
+C:\Users\Villegas\source\repos\Practica intermedia\RegexProgram\bin\Debug\net5.0\RegexProgram.dll
+C:\Users\Villegas\source\repos\Practica intermedia\RegexProgram\bin\Debug\net5.0\RegexProgram.pdb
+C:\Users\Villegas\source\repos\Practica intermedia\RegexProgram\obj\Debug\net5.0\RegexProgram.csproj.AssemblyReference.cache
+C:\Users\Villegas\source\repos\Practica intermedia\RegexProgram\obj\Debug\net5.0\RegexProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Villegas\source\repos\Practica intermedia\RegexProgram\obj\Debug\net5.0\RegexProgram.AssemblyInfoInputs.cache
+C:\Users\Villegas\source\repos\Practica intermedia\RegexProgram\obj\Debug\net5.0\RegexProgram.AssemblyInfo.cs
+C:\Users\Villegas\source\repos\Practica intermedia\RegexProgram\obj\Debug\net5.0\RegexProgram.csproj.CoreCompileInputs.cache
+C:\Users\Villegas\source\repos\Practica intermedia\RegexProgram\obj\Debug\net5.0\RegexProgram.dll
+C:\Users\Villegas\source\repos\Practica intermedia\RegexProgram\obj\Debug\net5.0\refint\RegexProgram.dll
+C:\Users\Villegas\source\repos\Practica intermedia\RegexProgram\obj\Debug\net5.0\RegexProgram.pdb
+C:\Users\Villegas\source\repos\Practica intermedia\RegexProgram\obj\Debug\net5.0\RegexProgram.genruntimeconfig.cache
+C:\Users\Villegas\source\repos\Practica intermedia\RegexProgram\obj\Debug\net5.0\ref\RegexProgram.dll

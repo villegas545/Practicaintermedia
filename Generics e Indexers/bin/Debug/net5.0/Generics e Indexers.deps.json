@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Generics e Indexers/1.0.0": {
+        "runtime": {
+          "Generics e Indexers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generics e Indexers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

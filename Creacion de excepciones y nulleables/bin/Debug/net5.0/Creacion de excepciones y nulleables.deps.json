@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Creacion de excepciones y nulleables/1.0.0": {
+        "runtime": {
+          "Creacion de excepciones y nulleables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Creacion de excepciones y nulleables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
